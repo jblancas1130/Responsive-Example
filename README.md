@@ -1,4 +1,4 @@
-Responsive-Example
-==================
+Bootstrap
+=========
 
-responsive example we did in class on last day
+Boostrap for DESN 378

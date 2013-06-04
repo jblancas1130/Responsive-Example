@@ -1,0 +1,38 @@
+#box	{
+	height:100px;
+	width:100px;
+	border: 1px solid green ;
+}
+
+
+	/*standard web*/
+@media screen and (max-width: 1024px ){
+	/*css rules*/
+	body	{
+		background:red;
+	}
+	
+	
+}
+
+/*tablet web*/
+@media screen and (max-width: 768px ){
+	/*css rules*/
+	body	{
+		background:blue;
+	}
+	
+	
+}
+
+/*phone web*/
+@media screen and (max-width: 480px ){
+	/*css rules*/
+	body	{
+		background:pink;
+	}
+	.navbar	{
+		display:none;
+	}
+	
+}
